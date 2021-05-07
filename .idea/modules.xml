@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Foundation/01-The-Basic-Use-Of-Idea.iml" filepath="$PROJECT_DIR$/Java-Foundation/01-The-Basic-Use-Of-Idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Foundation/01-The-Basic-Use-Of-idea/01-The-Basic-Use-Of-idea.iml" filepath="$PROJECT_DIR$/Java-Foundation/01-The-Basic-Use-Of-idea/01-The-Basic-Use-Of-idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Foundation/01-Thebasic-Use-Of-Idea.iml" filepath="$PROJECT_DIR$/Java-Foundation/01-Thebasic-Use-Of-Idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Foundation/02-Definition-Of-Variables/02-Definition-Of-Variables.iml" filepath="$PROJECT_DIR$/Java-Foundation/02-Definition-Of-Variables/02-Definition-Of-Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Foundation/Definition-And-Assignment-Of-Variable.iml" filepath="$PROJECT_DIR$/Java-Foundation/Definition-And-Assignment-Of-Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Data-Structure/Java-Data-Structure.iml" filepath="$PROJECT_DIR$/Java-Data-Structure/Java-Data-Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Foundation/Java-Foundation.iml" filepath="$PROJECT_DIR$/Java-Foundation/Java-Foundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-learn-ing.iml" filepath="$PROJECT_DIR$/.idea/Java-learn-ing.iml" />
+    </modules>
+  </component>
+</project>
