@@ -18,3 +18,39 @@ java-Foundation - java基础代码及md文档
 
 > > > 02.idea的快捷键以及变量的声明赋值
 
+> > 03-Simple-Data-Type-And-Calc
+
+> > > src 
+
+> > > > Calc 四则运算
+
+> > > > Simple_data_Types 数据类型定义
+
+> > 04-Scope_Of_Action_Of_Variables-Calc2 变量的作用范围和自增自减
+
+> > > src 
+
+> > > > Constant 常量
+
+> > > > Scope_Of_Action_Of_Variables 变量的作用域
+
+> > > > Self_Increasing_And_Self_Decreasing 自增和自减
+
+> > > 04.变量的作用范围和自增自减运算.md
+
+> >05-Assignment-Relation-Logic-Ternary-Operator 赋值、关系、逻辑、三元运算符
+
+> > > src
+
+> > > > assignment 赋值运算符
+
+> > > > Logic 关系运算符
+
+> > > > Relation 逻辑运算符
+> > > > Ternary 三运运算符
+
+> > > 05.赋值、 关系、逻辑、三元运算符.md
+
+
+
+
