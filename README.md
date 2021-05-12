@@ -87,6 +87,23 @@ java-Foundation - java基础代码及md文档
 
 > > > 08-Continue-Array.md continue和数组
 
+> > 09-Value-Exchange-And-Array-cases 值交换和数组案例
+
+> > > src
+
+> > > > Value-Exchange 值交换
+
+> > > > Array-cases 数组案例
+
+> > > > > Array_reverse 数组反转
+
+> > > > > Array_Sort 数组排序
+
+> > >09-值交换和数组案例
+
+
+
+
 
 
 
