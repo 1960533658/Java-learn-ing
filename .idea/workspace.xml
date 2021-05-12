@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dbcf271-1ad8-4b04-bf02-51aa932f1837" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java-Foundation/08-Continue-Array/08-Continue-Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Foundation/08-Continue-Array/08-Continue-Array.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Foundation/08-Continue-Array/src/Array/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Foundation/08-Continue-Array/src/Continue/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="6dbcf271-1ad8-4b04-bf02-51aa932f1837" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -41,18 +33,18 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="404">
-                <caret line="33" selection-start-line="33" selection-end-line="34" />
+                <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java-Foundation/08-Continue-Array/src/Array/Demo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="437">
+              <caret line="23" column="56" lean-forward="true" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -107,8 +99,8 @@
         <option value="$PROJECT_DIR$/Java-Foundation/07-Loop-Statement/07-循环语句.md" />
         <option value="$PROJECT_DIR$/Java-Foundation/08-Continue-Array/src/Continue/Demo1.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Java-Foundation/08-Continue-Array/08-Continue-Array.md" />
         <option value="$PROJECT_DIR$/Java-Foundation/08-Continue-Array/src/Array/Demo2.java" />
+        <option value="$PROJECT_DIR$/Java-Foundation/08-Continue-Array/08-Continue-Array.md" />
       </list>
     </option>
   </component>
@@ -131,24 +123,6 @@
             <path>
               <item name="Java-learn-ing" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Foundation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-learn-ing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="08-Continue-Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-learn-ing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="08-Continue-Array" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-learn-ing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="08-Continue-Array" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -328,18 +302,18 @@
       <workItem from="1620715255891" duration="11214000" />
       <workItem from="1620812765034" duration="3712000" />
       <workItem from="1620820923851" duration="1792000" />
-      <workItem from="1620822898290" duration="2107000" />
+      <workItem from="1620822898290" duration="2352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46052000" />
+    <option name="totallyTimeSpent" value="46297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16151386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16151386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,7 +322,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32942432" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32942432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -628,13 +602,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="442">
-            <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Java-Foundation/08-Continue-Array/src/Array/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="56" lean-forward="true" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -642,16 +613,19 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="404">
-            <caret line="33" selection-start-line="33" selection-end-line="34" />
+            <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java-Foundation/08-Continue-Array/src/Array/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
